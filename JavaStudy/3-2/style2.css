@@ -59,3 +59,32 @@
     background-color: #d98d30;
 }
 
+
+@media screen and (max-width: 767px) {
+    .header{
+        width: 300px;
+       
+    }
+    .left{
+        width: 100px;
+    }
+    .L{
+        width: 125px;
+    }
+    .c{
+        width: 75px;
+    }
+    .d{
+        width: 200px;
+    }
+    .footer{
+        width: 300px;
+    }
+
+}
+
+@media screen and (max-width: 479px) {
+    #wrapper {
+        width: 150px;
+    }
+}    
